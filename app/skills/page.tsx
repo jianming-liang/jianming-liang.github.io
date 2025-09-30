@@ -15,32 +15,32 @@ export default function SkillsPage() {
     {
       name: "Painting",
       color: "bg-pink-500",
-      image: "assets/img/painting1.jpg",
+      image: "https://jianming-liang.github.io/assets/img/painting1.jpg",
     },
     {
       name: "Calligraphy",
       color: "bg-amber-500",
-      image: "assets/img/Calligraphy.jpg",
+      image: "https://jianming-liang.github.io/assets/img/Calligraphy.jpg",
     },
     {
       name: "Photograph",
       color: "bg-blue-500",
-      image: "assets/img/photograph.jpg",
+      image: "https://jianming-liang.github.io/assets/img/photograph.jpg",
     },
     {
       name: "Handcraft",
       color: "bg-green-500",
-      image: "assets/img/handcraft1.jpg",
+      image: "https://jianming-liang.github.io/assets/img/handcraft1.jpg",
     },
     {
       name: "Frisbee",
       color: "bg-lime-500",
-      image: "assets/img/Frisbee.jpg",
+      image: "https://jianming-liang.github.io/assets/img/Frisbee.jpg",
     },
     {
       name: "Dessert Making",
       color: "bg-yellow-500",
-      image: "assets/img/DessertMaking.jpg",
+      image: "https://jianming-liang.github.io/assets/img/DessertMaking.jpg",
     },
   ]
 
@@ -376,53 +376,53 @@ export default function SkillsPage() {
                 {[
                   {
                     key: "3d",
-                    src: "assets/img/treasure.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/treasure.jpg",
                     caption: "3D Modeling",
                     isVideoThumb: true,
                   },
                   {
                     key: "uav",
-                    src: "assets/img/UAV.png",
+                    src: "https://jianming-liang.github.io/assets/img/UAV.png",
                     caption: "UAV",
                   },
                   {
                     key: "photograph",
-                    src: "assets/img/photograph.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/photograph.jpg",
                     caption: "Photography",
                   },
                   {
                     key: "calligraphy",
-                    src: "assets/img/Calligraphy.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/Calligraphy.jpg",
                     caption: "Calligraphy",
                   },
                   {
                     key: "handcraft1",
-                    src: "assets/img/handcraft1.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/handcraft1.jpg",
                     caption: "Handcraft",
                   },
                   {
                     key: "handcraft2",
-                    src: "assets/img/handcraft2.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/handcraft2.jpg",
                     caption: "Traditional Crafts",
                   },
                   {
                     key: "painting1",
-                    src: "assets/img/painting1.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/painting1.jpg",
                     caption: "Painting",
                   },
                   {
                     key: "painting2",
-                    src: "assets/img/painting2.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/painting2.jpg",
                     caption: "Sketching",
                   },
                   {
                     key: "frisbee",
-                    src: "assets/img/Frisbee.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/Frisbee.jpg",
                     caption: "Frisbee",
                   },
                   {
                     key: "dessert",
-                    src: "assets/img/DessertMaking.jpg",
+                    src: "https://jianming-liang.github.io/assets/img/DessertMaking.jpg",
                     caption: "Dessert Making",
                   },
                 ].map((item) => (

@@ -110,7 +110,7 @@ export default function ProjectsPage() {
       title: "Socio-Spatial Segregation in Chinese Metropolises",
       content:
         "Used housing type as a proxy for group differentiation to calculate exposure indices representing socio-spatial segregation, and further explored how different theoretical perspectives explain its occurrence and underlying mechanisms.",
-      image: "assets/img/p1.png",
+      image: "https://jianming-liang.github.io/assets/img/p1.png",
       videoSrc: "https://youtu.be/QnwM_R-3Ggg",
       badges: ["Social Equity","Database Creation", "Graduate Research", "Playable"],
       hasVideo: true,
@@ -120,7 +120,7 @@ export default function ProjectsPage() {
       title: "The Full Life Cycle of Urban Renewal Projects in Shenzhen",
       content:
         "Collected one of the most comprehensive datasets on urban regeneration to support research on its lifecycle, social impacts, and the gap between planning and practice.",
-      image: "assets/img/p2.png",
+      image: "https://jianming-liang.github.io/assets/img/p2.png",
       videoSrc: "https://youtu.be/oWUOjBZ8_1k",
       badges: ["Urbanization","Database Creation", "Graduate Research", "Playable"],
       hasVideo: true,
@@ -130,7 +130,7 @@ export default function ProjectsPage() {
       title: "Sentiment Analysis of Chinese Social Media on Legal Cases Concerning Women’s Rights",
       content:
         "Applied NLP to analyze legal documents and social media comments on women’s rights cases, exploring the state of gender equity and legislation in China.",
-      image: "assets/img/p3.jpg",
+      image: "https://jianming-liang.github.io/assets/img/p3.jpg",
       videoSrc: "https://youtu.be/LLhLXr2b1zo",
       badges: ["Social Equity", "Machine Learning", "Graduate Research", "Playable"],
       hasVideo: true,
@@ -140,7 +140,7 @@ export default function ProjectsPage() {
       title: "Point Cloud Generation and Processing Based on Stereo Image Measurement",
       content:
         "Developed C++ implementations to generate point clouds from stereo images, with functions for visualization, ground filtering, denoising, registration, and segmentation.",
-      image: "assets/img/p4.png",
+      image: "https://jianming-liang.github.io/assets/img/p4.png",
       videoSrc: "https://youtube.com/embed/pBYxUZmseo0",
       badges: ["Remote Sensing","Digital Building", "Ungraduate Research", "Playable"],
       hasVideo: true,
@@ -150,7 +150,7 @@ export default function ProjectsPage() {
       title: "Mechanisms of Behavioral Response to Urbanization Processes",
       content:
         "Investigated the mechanisms through which urbanization affects residents’ residential-work-leisure spatial patterns by examining mobility, accessibility, and residence quality before and after relocation.",
-      image: "assets/img/p5.png",
+      image: "https://jianming-liang.github.io/assets/img/p5.png",
       badges: ["Urbanization","Database Creation", "Graduate Research"],
       hasVideo: false,
     },
@@ -159,7 +159,7 @@ export default function ProjectsPage() {
       title: "Travel-Related Carbon Emission Estimation",
       content:
         "Estimated carbon emissions of five travel modes (walking, cycling, private car, bus, subway) and tracked long-term emission changes of anonymous users.",
-      image: "assets/img/p6.png",
+      image: "https://jianming-liang.github.io/assets/img/p6.png",
       badges: ["Environmental Concern","Transportation","Database Creation", "Graduate Research"],
       hasVideo: false,
     },
@@ -168,7 +168,7 @@ export default function ProjectsPage() {
       title: "Urban Transport Network Reconstruction and Optimization Strategies",
       content:
         "Digitized road and subway networks of major Chinese cities, calculated multimodal transport accessibility, and provided optimization suggestions using real traffic flow data.",
-      image: "assets/img/p7.png",
+      image: "https://jianming-liang.github.io/assets/img/p7.png",
       badges: ["Transportation","Database Creation", "Graduate Research"],
       hasVideo: false,
     },
@@ -177,7 +177,7 @@ export default function ProjectsPage() {
       title: "Urban Land Use Identification and Monitoring with Multi-Source Heterogeneous Spatial Big Data",
       content:
         "Utilized geospatial large models to identify spatial and attribute features of urban land use, enabling dynamic monitoring at the city scale.",
-      image: "assets/img/p8.png",
+      image: "https://jianming-liang.github.io/assets/img/p8.png",
       badges: ["Urbanization", "Machine Learning", "Remote Sensing", "Graduate Research"],
       hasVideo: false,
     },
@@ -186,7 +186,7 @@ export default function ProjectsPage() {
       title: "Shadow-Based Urban Building Height Inversion with ICESat-2",
       content:
         "Retrieved building heights based on building locations, solar elevation angles, and shadow lengths, and generated city-scale building height maps using ICESat-2 footprints as control points.",
-      image: "assets/img/p9.jpg",
+      image: "https://jianming-liang.github.io/assets/img/p9.jpg",
       badges: ["Digital Building", "Remote Sensing", "Ungraduate Research"],
       hasVideo: false,
     },
@@ -195,7 +195,7 @@ export default function ProjectsPage() {
       title: "Environmental Analysis of the Zhengzhou Flood Disaster Using D-InSAR",
       content:
         "Processed multi-temporal SAR range images before and after the Zhengzhou flood with D-InSAR to monitor centimeter-scale vertical ground deformations caused by flooding, groundwater loss, and building construction.",
-      image: "assets/img/p10.png",
+      image: "https://jianming-liang.github.io/assets/img/p10.png",
       badges: ["Environmental Concern","Urbanization", "Remote Sensing", "Ungraduate Research"],
       hasVideo: false,
     },
@@ -204,7 +204,7 @@ export default function ProjectsPage() {
       title: "Street-View Segmentation and Building Function Recognition",
       content:
         "Applied ResNet to segment individual buildings from Baidu Map street-view image collections, and identified building types and functions based on floor numbers, signage, and geographic location.",
-      image: "assets/img/p11.png",
+      image: "https://jianming-liang.github.io/assets/img/p11.png",
       badges: ["Digital Building", "Machine Learning", "Remote Sensing", "Ungraduate Research"],
       hasVideo: false,
     },
@@ -213,7 +213,7 @@ export default function ProjectsPage() {
       title: "Video-Based 3D Human Pose Estimation and Motion Correction",
       content:
         "Utilized VideoPose3D to extract 3D human pose information from input videos, evaluated motion accuracy by comparing joint angles with standard skeletal models, and provided correction recommendations.",
-      image: "assets/img/p12.png",
+      image: "https://jianming-liang.github.io/assets/img/p12.png",
       badges: ["Machine Learning", "Ungraduate Research"],
       hasVideo: false,
     },
@@ -222,7 +222,7 @@ export default function ProjectsPage() {
       title: "Fieldwork on the ZHONG SHAN DA XUE JI DI Icebreaker",
       content:
         "Conducted a 3-day field study aboard the ZHONG SHAN DA XUE JI DI icebreaker, including nautical chart reading, tidal observation, radar navigation analysis, UAV deployment, ship structural inspection, and 3D hull modeling.",
-      image: "assets/img/p13.jpg",
+      image: "https://jianming-liang.github.io/assets/img/p13.jpg",
       badges: ["In-Situ Practices","Ungraduate Research"],
       hasVideo: false,
     },
@@ -231,7 +231,7 @@ export default function ProjectsPage() {
       title: "GPS Signal Reception and Positioning",
       content:
         "Developed MATLAB routines to process RTK GPS signals for ground-based positioning, incorporating corrections for satellite clock bias, relativistic effects, and Earth rotation.",
-      image: "assets/img/p14.png",
+      image: "https://jianming-liang.github.io/assets/img/p14.png",
       badges: ["In-Situ Practices", "Remote Sensing", "Ungraduate Research"],
       hasVideo: false,
     },

@@ -25,7 +25,7 @@ export function HeroSection() {
             <div className="relative flex items-center gap-6">
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                 <Image
-                  src="assets/img/head.jpg"
+                  src="https://jianming-liang.github.io/assets/img/head.jpg"
                   alt="Jianming Liang"
                   fill
                   className="object-cover"
@@ -120,7 +120,7 @@ export function HeroSection() {
               transition={{ delay: 0.8, duration: 0.8 }}
             >
               <Button variant="secondary" asChild className="relative overflow-hidden group">
-                <Link href="assets/JianmingLiang_CV.pdf" target="_blank" download>
+                <Link href="https://jianming-liang.github.io/assets/JianmingLiang_CV.pdf" target="_blank" download>
                   <Download className="w-4 h-4 mr-2" />
                   <span className="relative z-10">Download CV</span>
                   <span className="absolute inset-0 bg-green-600 opacity-0 group-hover:opacity-10 transition-opacity duration-300"></span>
