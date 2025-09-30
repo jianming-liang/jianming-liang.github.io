@@ -120,7 +120,7 @@ export default function ProjectsPage() {
       title: "The Full Life Cycle of Urban Renewal Projects in Shenzhen",
       content:
         "Collected one of the most comprehensive datasets on urban regeneration to support research on its lifecycle, social impacts, and the gap between planning and practice.",
-      image: "https://jianming-liang.github.io/assets/img/p2.png",
+      image: "https://jianming-liang.github.io/assets/img/p2.jpg",
       videoSrc: "https://youtu.be/oWUOjBZ8_1k",
       badges: ["Urbanization","Database Creation", "Graduate Research", "Playable"],
       hasVideo: true,
@@ -140,7 +140,7 @@ export default function ProjectsPage() {
       title: "Point Cloud Generation and Processing Based on Stereo Image Measurement",
       content:
         "Developed C++ implementations to generate point clouds from stereo images, with functions for visualization, ground filtering, denoising, registration, and segmentation.",
-      image: "https://jianming-liang.github.io/assets/img/p4.png",
+      image: "https://jianming-liang.github.io/assets/img/p4.jpg",
       videoSrc: "https://youtube.com/embed/pBYxUZmseo0",
       badges: ["Remote Sensing","Digital Building", "Ungraduate Research", "Playable"],
       hasVideo: true,

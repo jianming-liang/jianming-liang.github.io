@@ -382,7 +382,7 @@ export default function SkillsPage() {
                   },
                   {
                     key: "uav",
-                    src: "https://jianming-liang.github.io/assets/img/UAV.png",
+                    src: "https://jianming-liang.github.io/assets/img/UAV.jpg",
                     caption: "UAV",
                   },
                   {
