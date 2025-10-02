@@ -33,6 +33,11 @@ export default function SkillsPage() {
       image: "https://jianming-liang.github.io/assets/img/handcraft1.jpg",
     },
     {
+      name: "Ping-pong",
+      color: "bg-purple-500",
+      image: "https://jianming-liang.github.io/assets/img/Ping-pong.jpg",
+    },
+    {
       name: "Frisbee",
       color: "bg-lime-500",
       image: "https://jianming-liang.github.io/assets/img/Frisbee.jpg",
@@ -72,7 +77,7 @@ export default function SkillsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed text-lg italic">
-                  "During my master’s program, my mentor gave me ample room to contemplate my research style, rather than merely treating me as an all-purpose toolkit. In line with my personality and experience, the niche I aim to carve lies in operationalizing theory. Consequently, my recent work has centered on the operationalization of various theories—such as Capability Approach, Spatial Mismatch Hypothesis, and Prospect Theory—through the lens of socio-spatial segregation."
+                  "During my master’s program, my mentor gave me ample room to contemplate my research style, rather than treating me as a mere all-purpose tool. In line with my personality and experience, I aim to carve out a niche in operationalizing theory. Consequently, my recent work has focused on the conceptual integration of theories—such as Capability Approach, Spatial Mismatch Hypothesis, and Prospect Theory—into socio-spatial segregation research."
                 </p>
               </CardContent>
             </Card>
@@ -414,6 +419,11 @@ export default function SkillsPage() {
                     key: "painting2",
                     src: "https://jianming-liang.github.io/assets/img/painting2.jpg",
                     caption: "Sketching",
+                  },
+                  {
+                    key: "ping-pong",
+                    src: "https://jianming-liang.github.io/assets/img/Ping-pong.jpg",
+                    caption: "Ping-pong",
                   },
                   {
                     key: "frisbee",
