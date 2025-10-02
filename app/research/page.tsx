@@ -67,7 +67,7 @@ export default function ResearchPage() {
                     </p>
                     <p className="text-green-600 dark:text-green-400 font-medium">Urban Geography</p>
                   </div>
-                  <p className="text-gray-600 dark:text-gray-400 mt-2 md:mt-0">UnderReview</p>
+                  <p className="text-gray-600 dark:text-gray-400 mt-2 md:mt-0">Submitted</p>
                 </div>
                 <ul className="space-y-2 list-disc list-inside text-gray-700 dark:text-gray-300">
                   <li>Assessed the dynamic impacts of spatial restructuring on the extent of spatial mismatch and workplace segregation among low-income groups.</li>
@@ -144,7 +144,7 @@ export default function ResearchPage() {
                       Transportation Research Part A: Policy and Practice
                     </p>
                   </div>
-                  <p className="text-gray-600 dark:text-gray-400 mt-2 md:mt-0">UnderReview</p>
+                  <p className="text-gray-600 dark:text-gray-400 mt-2 md:mt-0">Accepted</p>
                 </div>
                 <ul className="space-y-2 list-disc list-inside text-gray-700 dark:text-gray-300">
                   <li>Measured the impacts of new subway stations on the quality of residential moves (upward, downward, and substitute) using large-scale longitudinal mobile data and machine learning methods.</li>
