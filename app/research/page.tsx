@@ -65,7 +65,7 @@ export default function ResearchPage() {
                     <p className="text-black font-medium">
                       <span className="underline">Jianming Liang</span>, Pengjun Zhao, and Ling Li
                     </p>
-                    <p className="text-green-600 dark:text-green-400 font-medium">Environment and Planning A: Economy and Space</p>
+                    <p className="text-green-600 dark:text-green-400 font-medium">-</p>
                   </div>
                   <p className="text-gray-600 dark:text-gray-400 mt-2 md:mt-0">Submitted</p>
                 </div>
